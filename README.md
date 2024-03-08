@@ -29,6 +29,7 @@ __This Text__ is bold
 <!-- Strikethrough -->
 
 #using the double ~sign achieves this
+~~Dan Lee~~
 
 ~~this text~~ is strikethrough
 
