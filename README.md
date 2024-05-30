@@ -124,3 +124,20 @@ def add(num1, num2):
 * [ ] task 3 #incomplete task
 
 <!-- -->
+# Table with nested list or long content
+<table>
+  <tr>
+    <td>this content</td>
+    <td>- this line</br>
+      - this other line</br>
+      - the last line
+    </td>
+  </tr>
+  <tr>
+    <td>second row</td>
+    <td>- this line</br>
+    - this line</br>
+    - and finally this last line</br>
+    </td>
+  </tr>
+</table>
